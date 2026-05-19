@@ -86,12 +86,26 @@ footer {
     margin: 2%;
     background-color: #c5c5c5;
     padding: 2%;
+    border-radius: 10px;
+    border: 4px solid #1b5aac;
     
+}
+
+.cajaForm
+{
+    margin-left: 40%;
+    width: 100%;
 }
 
 .cajaOng1 img
 {
     width: 60%;
+    
+}
+.cajaForm form
+{
+    width: 20%;
+    
 }
 
 .cajaOng2 {
@@ -100,8 +114,11 @@ footer {
     margin: 2%;
     background-color: #c5c5c5;
     padding: 2%;
+    border-radius: 10px;
+    border: 4px solid #1b5aac;
 }
 .cajaOng2 img
 {
     width: 60%;
 }
+
